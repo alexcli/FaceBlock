@@ -1,9 +1,9 @@
 # FaceBlock - HackMobile 2018 Demo
 
-This project includes code for the FaceBlock demo app that won first place at HackMobile 2018. 
+This project includes code for the FaceBlock demo app that won first place at HackMobile 2018 ([Blog](https://developer.qualcomm.com/blog/intern-hack-mobile-2018-getting-creative-artificial-intelligence)). 
 <br>
 <p align="center">
-<img src="https://github.qualcomm.com/raw/oandrien/faceblock-demo-app/master/thumbnail.gif">
+<img src="thumbnail.gif">
 </p>
 <br>
 
@@ -30,7 +30,7 @@ Begin by setting up your Android development environment and installing the abov
 
 After setting up your environment, first clone the project to your desired location with
 ```
-git clone https://github.qualcomm.com/oandrien/faceblock-demo-app
+git clone https://github.com/alexcli/FaceBlock.git
 ```
 Then, import the project through Android Studio as an existing project.
 
